@@ -8,4 +8,4 @@ This repository contains reports from a comprehensive assessment of the MEPS web
 
 Links to the clickable wireframe prototypes are available in the **"wireframe_links.docx"** document.
 
-
+To download the documents, select the green **"Code"** button and then select **"Download ZIP"**.
